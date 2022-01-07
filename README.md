@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**warren2i/warren2i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### I'm a Full-Stack Developer from Blackpool, UK.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##### BIO
+
+- 🏢 I'm currently working at **REDACTED**
+- ⚙️ I use daily: `.py`, `.flask`, `.js`, `.ps1`, `.C+`, `.html`, `.css`, `.jinja`
+- 🌍 I'm mostly active within the **Python Community**
+- 💅 Designed: [PsGen](https://github.com/warren2i/PsGen), [Partial Plate Search](https://github.com/warren2i/dvla), etc…
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **branding**, **data augmentation**, **development**, **design thinking**
+- 📫 Reach me: [Github.com/warren2i](https://github.com/warren2i/Warren)
+
